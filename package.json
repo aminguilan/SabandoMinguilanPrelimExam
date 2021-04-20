@@ -1,0 +1,21 @@
+{
+  "name": "sabandominguilanprelimexam",
+  "version": "1.0.0",
+  "description": "SabandoMinguilanPrelimExam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/aminguilan/SabandoMinguilanPrelimExam.git )"
+  },
+  "keywords": [
+    "PrelimExam"
+  ],
+  "author": "SabandoMinguilan",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.6.0"
+  }
+}
